@@ -26,4 +26,7 @@ export const GameBoard = styled.div`
   padding: 30px;
   margin: 0 auto;
   grid-gap: 5vw;
+  @media screen and (max-width: 800px) {
+    width: 100vw;
+  }
 `;

@@ -21,4 +21,7 @@ export const Div = styled.div`
     width: auto;
     height: 25vh;
   }
+  @media screen and (max-width: 800px) {
+    width: 25vw;
+  }
 `;
