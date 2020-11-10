@@ -2,12 +2,17 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   min-height: 92vh;
-  display: flex;
+  display: block;
   width: 100vw;
-  justify-content: center;
-  align-items: center;
+  margin: 0 auto;
   box-sizing: border-box;
   background-color: #ce6262;
+  & > svg {
+    font-size: 24px;
+    color: whitesmoke;
+    display: flex;
+    margin: 0 auto;
+  }
 `;
 
 export const GameBoard = styled.div`
