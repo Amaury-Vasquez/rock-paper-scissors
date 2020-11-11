@@ -12,4 +12,7 @@ export const Div = styled.div`
     margin-right: 5vw;
     color: whitesmoke;
   }
+  & > svg:hover {
+    transform: scale(1.5);
+  }
 `
