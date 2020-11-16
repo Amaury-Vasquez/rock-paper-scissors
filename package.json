@@ -2,7 +2,7 @@
   "name": "rps",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://amaury-vasquez.github.io/rock-paper-scissors",
+  "homepage": "https://rockpaperscissorsts.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
